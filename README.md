@@ -1,12 +1,12 @@
-Hi, I'm Abdul Raheem 👋
+# Hi, I'm Abdul Raheem 👋
 
-Aspiring AI Engineer | AI Automation | n8n | Python
+### Aspiring AI Engineer | AI Automation | n8n | Python
 
-I'm currently learning AI Engineering and building practical projects to develop my skills in AI, automation, and software development.
+I'm currently **learning AI Engineering** and building practical projects to develop my skills in AI, automation, and software development.
 
-My current focus is on Python, n8n, REST APIs, AI APIs, RAG, and Git/GitHub.
+My current focus is on **Python, n8n, REST APIs, AI APIs, RAG, and Git/GitHub**.
 
-🧠 Currently Learning
+## 🧠 Currently Learning
 
 - 🤖 AI Engineering
 - 🐍 Python
@@ -17,49 +17,43 @@ My current focus is on Python, n8n, REST APIs, AI APIs, RAG, and Git/GitHub.
 - 🌐 Git & GitHub
 - ✨ Prompt Engineering
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-Programming
-
+**Programming**
 - Python
 
-AI & Automation
-
+**AI & Automation**
 - n8n
 - Zapier
 - AI APIs
 - RAG
 - Prompt Engineering
 
-Development
-
+**Development**
 - REST APIs
 - Webhooks
 - JSON
 - Git
 - GitHub
 
-🚀 Projects
+## 🚀 Projects
 
-🤖 AI Cold Email Writer
-
+### 🤖 AI Cold Email Writer
 An AI-powered automation workflow for generating personalized cold emails.
 
-🧠 RAG AI Chatbot
-
+### 🧠 RAG AI Chatbot
 A Retrieval-Augmented Generation chatbot that uses external knowledge to provide relevant answers.
 
-📩 Smart Contact Form with AI
-
+### 📩 Smart Contact Form with AI
 An AI-powered workflow that processes contact form submissions and automates follow-up actions.
 
-🎯 Career Goal
+## 🎯 Career Goal
 
-I'm working towards becoming a professional AI Engineer by continuously learning, building real-world projects, and improving my technical skills.
+I'm working towards becoming a **professional AI Engineer** by continuously learning, building real-world projects, and improving my technical skills.
 
-«Currently learning → Building projects → Becoming an AI Engineer 🚀»
+> **Currently learning → Building projects → Becoming an AI Engineer 🚀**
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 - 📍 Karachi, Pakistan
 - 💼 Open to AI Engineering & AI Automation internships
@@ -67,4 +61,4 @@ I'm working towards becoming a professional AI Engineer by continuously learning
 
 ---
 
-⭐ Learning by building, one project at a time.
+⭐ **Learning by building, one project at a time.**
